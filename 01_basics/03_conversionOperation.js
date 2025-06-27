@@ -37,4 +37,38 @@ console.log();
 
      let isLoggedIn = "";
     let boolData = Boolean(isLoggedIn);
-    console.log(boolData); */
+    console.log(boolData); 
+
+    let value = 3;
+    negValue = -value;
+    console.log(negValue); 
+
+    let str1 = "hello";
+    let str2 = " Prateek";
+    let str3 = str1 + str2 ;
+    console.log(str3);  
+
+    console.log("2" + 1 + 1 );   ---- 211
+    console.log("3" + "1" + 2);   ---- 312
+    console.log(2 + 3 + "1");    ----51
+    
+
+    console.log(+true);
+    console.log(+false);
+    console.log(+""); 
+
+    let amount = 100;
+    ++amount;
+    console.log( amount ); 
+
+    let amount = 100;
+    amount++;
+    console.log( amount );  
+    
+    let amount = 100;
+    --amount;
+    console.log( amount );  
+
+    let amount = 100;
+    amount--;
+    console.log( amount );  */
